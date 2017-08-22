@@ -8,3 +8,4 @@
 
 ### Imbalanced Classification ([Note](doc/imclfi.md))
  - Learning Deep Representation for Imbalanced Classification_cvpr2016 ([Note](doc/Learning_Deep_Representation_for_Imbalanced_Classification_cvpr2016.md))
+ - Deep Over-sampling Framework for Classifying Imbalanced Data ([Note](doc/Deep_Over_sampling_Framework_for_Imbalanced_Data_2017.md))

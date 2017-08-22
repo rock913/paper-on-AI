@@ -7,7 +7,23 @@ Our minds are able to explore vast spaces of possible thoughts, perceptions, and
 Probabilistic programming is not about making what you already do faster or somehow better but instead about making it possible to do things that would otherwise be nearly impossible to do[...](https://media.nips.cc/Conferences/2015/tutorialslides/wood-nips-probabilistic-programming-tutorial-2015.pdf)
 
 ## What is probabilistic programming
-<img src="../fig/ppl_fig3.png" width="400"/> <img src="../fig/ppl_fig4.png" width="400"/>
+**The goal of probabilistic programming** is **to enable probabilistic modeling and machine learning to be accessible to the working programmer**, who has sufficient domain expertise, but perhaps not enough expertise in probability theory or machine learning.<br />
+
+<img src="../fig/ppl_fig3.png" width="400"/> <img src="../fig/ppl_fig4.png" width="400"/><br />
+**Probabilistic program** is to represent (and model) a probability distribution<br />
+1. assigns to variables from a “prior” distribution
+2. constrains the relationships between variables using observe statements
+3. to represent a “posterior” distribution obtained by conditioning the prior distribution using observations.<br />
+
+**An expample: [Skill Rating in Online Games](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/fose-icse2014.pdf)**<br />
+Online gaming systems such as Microsoft’s Xbox Live rate relative skills of players playing online games so as to match players with comparable skills for game playing.<br />
+<img src="../fig/ppl_fig5.png" width="800"/><br />
+**The implementation in Tabular:**(a new probabilistic programming language whose most distinctive feature is that programs are written as annotated relational schemas)<br />
+<img src="../fig/ppl_fig6.png" width="400"/>
+<img src="../fig/ppl_fig7.png" width="400"/>
+
+**The goal of a probabilistic inference** is to compute appropriate representations of this posterior distributions
+
 
 
 Probabilistic programs are usual functional or imperative programs with two added constructs:<br />
