@@ -145,6 +145,7 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 
 ### Financial
 - [Deep Learning in Finance](https://arxiv.org/pdf/1602.06561.pdf)
+- [apis](http://www.xignite.com/Products/?utm_source=google&utm_medium=cpc&utm_campaign=na_search_api_financial_canada&utm_adgroup=api_financial&utm_content=api_financial&utm_term={finance%20api}&Referrer=PPC&agencycode=XIG&channel=Google&camp=&adgroup=&keyword=finance%20api&gclid=EAIaIQobChMIxfORxoK82AIV2brACh0f8g_9EAAYASAAEgLuOPD_BwE)
 
 ### recursive network
 - [Recursive Neural Networks](www.iro.umontreal.ca/~bengioy/talks/gss2012-YB6-NLP-recursive.pdf)
@@ -207,11 +208,12 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 - [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/abs/1711.02257)
 
 
-### AI as servise
+### AI as servise ([Note](doc/aias.md))
+
 - [labellio](https://www.labell.io)
 - [clarifai](https://www.clarifai.com/?mkt_tok=eyJpIjoiTkdZd056Y3daVEkyTVdWaiIsInQiOiJNZzBtaEFLWGFCTEs3amxkdTJQd1JYR1wvVFJhYUZIa1BQaWppOTJvOGpZUmNpRVZyVWg0NVZDQWJnVHhFZ1d0RkticWZoa0VVeHNsRUJwMTk2TDB4TU5QZmtLYlwvVTBcL3VndmpRd08yZGdYK1hYUGZOU1RManJkOWgwQVFoM0RITCJ9)
 - [fastai](http://www.fast.ai/)
-
+- [deepdetect](https://deepdetect.com/)
 
 ### Transfer and multi-task learning ([Note](doc/transfer_and_multi_task.md))
 
@@ -227,3 +229,5 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Multi-task Self-Supervised Visual Learning](openaccess.thecvf.com/content_ICCV_2017/papers/Doersch_Multi-Task_Self-Supervised_Visual_ICCV_2017_paper.pdf)
 - [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://arxiv.org/pdf/1603.01249.pdf)
 - [Multi-task, Multi-lingual Learning](www.phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-25-multitask.pdf)
+
+
