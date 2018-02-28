@@ -29,7 +29,6 @@ Can be found in repository: [paper-on-AI](../README.md).
 1. Recent approaches have thus looked towards learning what to share and generally outperform hard parameter sharing
 2. it is helpful to enable model to learn how the tasks should interact with each other(or add structure to the model).
 
-
 ## REFERENCES
 
 ##### transfer learning 
