@@ -98,6 +98,13 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Teaching UAVs to Race Using UE4Sim](https://arxiv.org/pdf/1708.05884.pdf)
 - [Video Propagation Networks](https://arxiv.org/pdf/1612.05478.pdf)
 
+### emotion recognition
+- [Emotion Recognition in the Wild using Deep Neural Networks and Bayesian Classifiers](https://arxiv.org/pdf/1709.03820.pdf)
+
+### interactinv
+- [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
+- [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
+- [annotation tool](https://github.com/wiany11/jsoda)
 
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
@@ -151,7 +158,7 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [Reasoning with Deep Learning: an Open Challenge](ceur-ws.org/Vol-1802/paper5.pdf)
 - [3 Types Of Reasoning And AlphaGo](https://www.twinword.com/blog/3-types-of-reasoning-and-alphago/)
 **inductive reasoning** He died and she died. Everyone died, so I will die
-**deductive reasoning** If all humans die and I am a human, then I will die. 
+**deductive reasoning** If all humans die and I am a human, then I will die.
 **abductive reasoning** He died and the cat died, so he is a cat
 
 ### Financial
@@ -159,6 +166,10 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [Deep Learning in Finance](https://arxiv.org/pdf/1602.06561.pdf)
 - [apis](http://www.xignite.com/Products/?utm_source=google&utm_medium=cpc&utm_campaign=na_search_api_financial_canada&utm_adgroup=api_financial&utm_content=api_financial&utm_term={finance%20api}&Referrer=PPC&agencycode=XIG&channel=Google&camp=&adgroup=&keyword=finance%20api&gclid=EAIaIQobChMIxfORxoK82AIV2brACh0f8g_9EAAYASAAEgLuOPD_BwE)
 - [finviz](https://finviz.com)
+
+- [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf)
+- [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://pdfs.semanticscholar.org/0871/2243c3f1dc464c34e7876ab093274ae8024c.pdf)
+
 
 ### recursive network
 - [Recursive Neural Networks](www.iro.umontreal.ca/~bengioy/talks/gss2012-YB6-NLP-recursive.pdf)
@@ -264,12 +275,17 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 
 ### Transfer and multi-task learning ([Note](doc/transfer_and_multi_task.md))
 
-### transfer learning 
+### transfer learning
 - [A survey of transfer learning](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-016-0043-6?site=journalofbigdata.springeropen.com)
 - [Transfer learning and domain adaptation](https://drive.google.com/open?id=1fqdpd0V3FXMoAIGUc3aE9L853oqTY0c8)[second](https://drive.google.com/a/stradigi.ca/file/d/1xcbGAEivt7m_JDSExrbqiJcJtW7DgfdQ/view?usp=sharing)
 frozone; fine-turn; domain; distillation; semi-supervised
 - [Transfer Learning — The Next Frontier for ML](https://drive.google.com/file/d/1tpE7vcx8SuP5q5za-3_hZa7BDsOTW3-T/view)
 - [Transfer Learning - Machine Learning's Next Frontier](ruder.io/transfer-learning/index.html)
+
+### video tracking
+- [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
+- [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
+- [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
 
 ### multi-task learning
 - [An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/)
