@@ -100,8 +100,9 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 
 ### emotion recognition
 - [Emotion Recognition in the Wild using Deep Neural Networks and Bayesian Classifiers](https://arxiv.org/pdf/1709.03820.pdf)
+- [EmotioNet Challenge: Recognition of facial expressions of emotion in the wild](https://arxiv.org/pdf/1703.01210.pdf)
 
-### interactinv
+### Detection
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [annotation tool](https://github.com/wiany11/jsoda)
