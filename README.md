@@ -105,6 +105,11 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [annotation tool](https://github.com/wiany11/jsoda)
+- [Deep Feature Flow for Video Recognition](https://arxiv.org/pdf/1611.07715.pdf)
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+- [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://arxiv.org/pdf/1607.05781.pdf)
+- [ROLO](https://github.com/Guanghan/ROLO)
+
 
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
