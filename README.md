@@ -105,12 +105,14 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 ### Detection
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
-- [annotation tool](https://github.com/wiany11/jsoda)
 - [Deep Feature Flow for Video Recognition](https://arxiv.org/pdf/1611.07715.pdf)
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 - [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://arxiv.org/pdf/1607.05781.pdf)
 - [ROLO](https://github.com/Guanghan/ROLO)
 
+#### annotation
+- [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
+- [annotation tool](https://github.com/wiany11/jsoda)
 
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
@@ -175,6 +177,22 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 
 - [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf)
 - [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://pdfs.semanticscholar.org/0871/2243c3f1dc464c34e7876ab093274ae8024c.pdf)
+
+#### combine news
+- [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation]9emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
+- [Deep Learning for Event-Driven Stock Prediction](file:///home/yongfu/Downloads/11031-49810-1-PB.pdf)
+- [On the Importance of Text Analysis for Stock Price Prediction](https://nlp.stanford.edu/pubs/lrec2014-stock.pdf)
+
+##### Github
+- [financial-news-dataset](https://github.com/philipperemy/financial-news-dataset)
+- [PyDatastream](https://github.com/vfilimonov/pydatastream)
+- [Reuters-full-data-set](https://github.com/philipperemy/Reuters-full-data-set)
+- [8k_stock_price_movement](https://github.com/Luke-G-B/8k_stock_price_movement)
+- [Predicting stock price directional movement after 8-K filings](https://github.com/Luke-G-B/8k_stock_price_movement)
+
+- [scraping sec.gov for Form 8-K's using Beautiful Soup](https://gist.github.com/Luke-G-B/bacbdeeb3c5502651fc6e84e5c50edb1)
+- [Stock Market prediction using news headlines](https://github.com/EmielStoelinga/CCMLWI)
+- [How To: Convert a Stock Ticker Into a CIK Identifier With Python](www.konradrkludwig.com/2016/05/25/how-to-convert-a-stock-ticker-into-cik-identifier-with-python/)
 
 
 ### recursive network
