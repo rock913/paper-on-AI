@@ -176,6 +176,9 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf)
 - [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://pdfs.semanticscholar.org/0871/2243c3f1dc464c34e7876ab093274ae8024c.pdf)
 
+- [MACHINE LEARNING FOR TRADING](https://primedirection.net/docs/insight6.pdf)
+
+- [MOrdReD: Memory-based Ordinal Regression Deep Neural Networks for Time Series Forecasting](https://arxiv.org/pdf/1803.09704.pdf)
 
 ### recursive network
 - [Recursive Neural Networks](www.iro.umontreal.ca/~bengioy/talks/gss2012-YB6-NLP-recursive.pdf)
@@ -292,6 +295,9 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+
+### persion re Identifying
+- [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 
 ### multi-task learning
 - [An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/)
