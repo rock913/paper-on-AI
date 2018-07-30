@@ -109,6 +109,12 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 - [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://arxiv.org/pdf/1607.05781.pdf)
 - [ROLO](https://github.com/Guanghan/ROLO)
+- [High-Speed Tracking-by-Detection Without Using Image Information](elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf)
+- [End-to-end representation learning for Correlation Filter based tracking](https://arxiv.org/pdf/1704.06036.pdf)
+- [SIMPLE ONLINE AND REALTIME TRACKING](https://arxiv.org/pdf/1602.00763.pdf)
+- [ReMotENet: Efficient Relevant Motion Event Detection for Large-scale Home Surveillance Videos](https://arxiv.org/pdf/1801.02031.pdf)
+- [Multiple People Tracking by Lifted Multicut and Person Re-identification](openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)
+
 
 #### annotation
 - [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
@@ -313,6 +319,8 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
+- [**Pose Flow: Efficient Online Pose Tracking**](https://arxiv.org/pdf/1802.00977.pdf)
 
 ### persion re Identifying
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
