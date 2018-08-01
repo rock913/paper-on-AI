@@ -102,8 +102,21 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Emotion Recognition in the Wild using Deep Neural Networks and Bayesian Classifiers](https://arxiv.org/pdf/1709.03820.pdf)
 - [EmotioNet Challenge: Recognition of facial expressions of emotion in the wild](https://arxiv.org/pdf/1703.01210.pdf)
 
-### Detection
+### activity Recognition
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
+
+### video tracking
+- [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
+- [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
+- [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
+- [**Pose Flow: Efficient Online Pose Tracking**](https://arxiv.org/pdf/1802.00977.pdf)
+- [PoseFlow](https://github.com/YuliangXiu/PoseFlow)
+
+### reid
+- [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
+
+### Detection
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [Deep Feature Flow for Video Recognition](https://arxiv.org/pdf/1611.07715.pdf)
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
@@ -315,12 +328,6 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Transfer Learning — The Next Frontier for ML](https://drive.google.com/file/d/1tpE7vcx8SuP5q5za-3_hZa7BDsOTW3-T/view)
 - [Transfer Learning - Machine Learning's Next Frontier](ruder.io/transfer-learning/index.html)
 
-### video tracking
-- [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
-- [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
-- [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
-- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
-- [**Pose Flow: Efficient Online Pose Tracking**](https://arxiv.org/pdf/1802.00977.pdf)
 
 ### persion re Identifying
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
