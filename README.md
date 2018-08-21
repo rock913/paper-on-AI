@@ -104,6 +104,8 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 
 ### activity Recognition
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
+- [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf)
+- [The Kinetics Human Action Video Dataset](https://arxiv.org/pdf/1705.06950.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ARCHITECHT)
 
 ### video tracking
 - [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
@@ -115,6 +117,14 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 
 ### reid
 - [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
+- [Clothing Change Aware Person Identification](openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)
+- [Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://arxiv.org/pdf/1501.05703.pdf)
+#### code
+- [COCO Loss](https://github.com/sciencefans/coco_loss)
+- [NormFace](https://github.com/happynear/NormFace)
+- [HumanRecognition](https://github.com/YuMao1993/HumanRecognition)
+- [**Person recognition**](https://github.com/vijaykumar01/person_recognition)
+
 
 ### Detection
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
@@ -132,6 +142,9 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 #### annotation
 - [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
 - [annotation tool](https://github.com/wiany11/jsoda)
+- [labelme](https://github.com/wkentaro/labelme)
+- [An interactive tool for manual, semi-automatic and automatic video annotation](file:///home/yongfuh/Downloads/bianco2015interactive.pdf)
+
 
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
