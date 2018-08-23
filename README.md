@@ -111,9 +111,13 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
 - [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
-- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)[github](https://github.com/Microsoft/human-pose-estimation.pytorch)
 - [**Pose Flow: Efficient Online Pose Tracking**](https://arxiv.org/pdf/1802.00977.pdf)
 - [PoseFlow](https://github.com/YuliangXiu/PoseFlow)
+
+- [Tracking The Untrackable:Learning to Track Multiple Cues with Long-Term Dependencies](openaccess.thecvf.com/content_ICCV_2017/papers/Sadeghian_Tracking_the_Untrackable_ICCV_2017_paper.pdf)
+- [Moving beyond: Deepomatic learns how to track multiple objects](https://blog.deepomatic.com/moving-beyond-deepomatic-learns-how-to-track-multiple-objects-be5a75e1e287)
+- [signality](https://www.signality.com)
 
 ### reid
 - [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
@@ -124,7 +128,6 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [NormFace](https://github.com/happynear/NormFace)
 - [HumanRecognition](https://github.com/YuMao1993/HumanRecognition)
 - [**Person recognition**](https://github.com/vijaykumar01/person_recognition)
-
 
 ### Detection
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
@@ -137,14 +140,16 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [SIMPLE ONLINE AND REALTIME TRACKING](https://arxiv.org/pdf/1602.00763.pdf)
 - [ReMotENet: Efficient Relevant Motion Event Detection for Large-scale Home Surveillance Videos](https://arxiv.org/pdf/1801.02031.pdf)
 - [Multiple People Tracking by Lifted Multicut and Person Re-identification](openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)
-
+- [POI: Multiple Object Tracking with High Performance Detection and Appearance Feature](https://arxiv.org/pdf/1610.06136.pdf)[github](https://github.com/jutanke/cabbage)
+- [People Detection and Tracking in Crowded Scenes](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26806/1/SiyuTang_PhD_thesis_submit.pdf)
 
 #### annotation
 - [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
 - [annotation tool](https://github.com/wiany11/jsoda)
 - [labelme](https://github.com/wkentaro/labelme)
 - [An interactive tool for manual, semi-automatic and automatic video annotation](file:///home/yongfuh/Downloads/bianco2015interactive.pdf)
-
+- [Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces](https://github.com/cvondrick/vatic)
+- [BeaverDam](https://github.com/antingshen/BeaverDam)
 
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
