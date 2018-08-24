@@ -119,10 +119,13 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Moving beyond: Deepomatic learns how to track multiple objects](https://blog.deepomatic.com/moving-beyond-deepomatic-learns-how-to-track-multiple-objects-be5a75e1e287)
 - [signality](https://www.signality.com)
 
-### reid
+### [reid](https://paperswithcode.com/search?q=reid)
 - [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
 - [Clothing Change Aware Person Identification](openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)
 - [Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://arxiv.org/pdf/1501.05703.pdf)
+### persion re Identifying
+- [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
+- [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184v2.pdf) [github](https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch)
 #### code
 - [COCO Loss](https://github.com/sciencefans/coco_loss)
 - [NormFace](https://github.com/happynear/NormFace)
@@ -328,7 +331,11 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 - [Plug-and-Play Interactive Deep Network Visualization](https://www.researchgate.net/profile/Gjorgji_Strezoski/publication/319932280_Plug-and-Play_Interactive_Deep_Network_Visualization/links/59c24aa9a6fdcc69b92fbf57/Plug-and-Play-Interactive-Deep-Network-Visualization.pdf)
 - [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/abs/1711.02257)
 
-##
+### system examples
+- [home_surveillance](https://github.com/BrandonJoffe/home_surveillance)
+- [A face recognition based attendance updating system](https://github.com/Abhisssss/ProjectX2)
+- [A face recognition based attendance system](https://github.com/Husseinfo/tracker)
+
 
 ### AI as servise ([Note](doc/aias.md))
 
@@ -347,8 +354,6 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Transfer Learning - Machine Learning's Next Frontier](ruder.io/transfer-learning/index.html)
 
 
-### persion re Identifying
-- [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 
 ### multi-task learning
 - [An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/)
