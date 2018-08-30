@@ -154,6 +154,9 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces](https://github.com/cvondrick/vatic)
 - [BeaverDam](https://github.com/antingshen/BeaverDam)
 
+#### datasets
+- [datasets](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
+
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
 
@@ -221,6 +224,16 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [MACHINE LEARNING FOR TRADING](https://primedirection.net/docs/insight6.pdf)
 
 - [MOrdReD: Memory-based Ordinal Regression Deep Neural Networks for Time Series Forecasting](https://arxiv.org/pdf/1803.09704.pdf)
+
+#### portfolio management
+- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
+- [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
+- [Deep Reinforcement Learning in Portfolio Management](https://ruohanzhan.github.io/fun_proj/trading/report.pdf)
+- [Gather data, compute statistics, and make predictions on securities](https://github.com/ahwkuepper/etfs)
+- [etfpredict](https://github.com/mmzhao/etfpredict)
+- [ETFDataLoader](https://github.com/dado0583/ETFDataLoader/tree/master/ETFScraper)
+- [ETFGlobal](https://github.com/luoli413/ETFGlobal)
+
 
 #### combine news
 - [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation]9emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
