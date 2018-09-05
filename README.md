@@ -118,6 +118,7 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Tracking The Untrackable:Learning to Track Multiple Cues with Long-Term Dependencies](openaccess.thecvf.com/content_ICCV_2017/papers/Sadeghian_Tracking_the_Untrackable_ICCV_2017_paper.pdf)
 - [Moving beyond: Deepomatic learns how to track multiple objects](https://blog.deepomatic.com/moving-beyond-deepomatic-learns-how-to-track-multiple-objects-be5a75e1e287)
 - [signality](https://www.signality.com)
+- [ArtTrack: Articulated Multi-person Tracking in the Wild](https://arxiv.org/pdf/1612.01465v3.pdf)
 
 ### [reid](https://paperswithcode.com/search?q=reid)
 - [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
@@ -224,6 +225,8 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [MACHINE LEARNING FOR TRADING](https://primedirection.net/docs/insight6.pdf)
 
 - [MOrdReD: Memory-based Ordinal Regression Deep Neural Networks for Time Series Forecasting](https://arxiv.org/pdf/1803.09704.pdf)
+- [Financial Time-Series Predictions and AI Models (Part 2): HTM Models](https://www.linkedin.com/pulse/financial-time-series-predictions-ai-models-part-2-htm-schoeneburg/)
+
 
 #### portfolio management
 - [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
@@ -233,12 +236,14 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [etfpredict](https://github.com/mmzhao/etfpredict)
 - [ETFDataLoader](https://github.com/dado0583/ETFDataLoader/tree/master/ETFScraper)
 - [ETFGlobal](https://github.com/luoli413/ETFGlobal)
+- [Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/pdf/1808.09940.pdf)[Github](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
 
 
 #### combine news
 - [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation]9emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
 - [Deep Learning for Event-Driven Stock Prediction](file:///home/yongfu/Downloads/11031-49810-1-PB.pdf)
 - [On the Importance of Text Analysis for Stock Price Prediction](https://nlp.stanford.edu/pubs/lrec2014-stock.pdf)
+- [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](www.aclweb.org/anthology/D14-1148)
 
 ##### Github
 - [financial-news-dataset](https://github.com/philipperemy/financial-news-dataset)
