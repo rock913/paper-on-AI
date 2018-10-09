@@ -2,6 +2,9 @@
 
 ## Topics
 
+
+### Video Surveillance  ([Note](doc/VIDS.md))
+
 ### Medical Image analysis using deep learning ([Note](doc/MIA.md))
 
 ### Probabilistic programming language ([Note](doc/ppl.md))
@@ -23,6 +26,9 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
  - [Deep Inverse Reinforcement Learning](https://pdfs.semanticscholar.org/fde4/8677ba592ed5710b14ef2da7fb8c8144feda.pdf)
    to learn the reward for each state
  - [Cooperative Inverse Reinforcement Learning](papers.nips.cc/paper/6420-cooperative-inverse-reinforcement-learning.pdf)
+### for finance
+ - [async-rl](https://github.com/coreylynch/async-rl/blob/master/async_dqn.py)
+ - [A3C-Gym](https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym)
 
 ### Imbalanced Classification ([Note](doc/imclfi.md))
  - Learning Deep Representation for Imbalanced Classification_cvpr2016 ([Note](doc/Learning_Deep_Representation_for_Imbalanced_Classification_cvpr2016.md))
@@ -88,6 +94,10 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
  - [Learning Policies for First Person Shooter Games Using Inverse Reinforcement Learning](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4063/4417)
  - [Strategy Detection in Wuzzit: A Decision Theoretic Approach](documents.brainquake.com/backed-by-science/Northeastern-Nguyen_ICLS_2014.pdf)
 
+### cloud spot instance Management
+- [Deep Learning on Amazon EC2 Spot Instances Without the Agonizing Pain](https://hackernoon.com/deep-learning-on-amazon-ec2-spot-instances-without-the-agonizing-pain-4cedf9b129c4)
+- [portal-gun](https://github.com/Coderik/portal-gun)
+
 
 ### generate data from video game
 - [Playing for Data: Ground Truth from Computer Games](download.visinf.tu-darmstadt.de/data/from_games/data/eccv-2016-richter-playing_for_data.pdf)
@@ -120,6 +130,12 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [signality](https://www.signality.com)
 - [ArtTrack: Articulated Multi-person Tracking in the Wild](https://arxiv.org/pdf/1612.01465v3.pdf)
 
+### background substraction fill
+- [awesome-background-subtraction](https://github.com/murari023/awesome-background-subtraction)
+- [FgSegNet](https://github.com/lim-anggun/FgSegNet)
+- [**FusionSeg**](https://github.com/suyogduttjain/fusionseg)
+- [generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
+
 ### [reid](https://paperswithcode.com/search?q=reid)
 - [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
 - [Clothing Change Aware Person Identification](openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)
@@ -127,6 +143,8 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 ### persion re Identifying
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 - [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184v2.pdf) [github](https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch)
+- [Alignedreid＋+: Dynamically Matching Local Information for Person Re-Identification](https://github.com/michuanhaohao/AlignedReID)
+
 #### code
 - [COCO Loss](https://github.com/sciencefans/coco_loss)
 - [NormFace](https://github.com/happynear/NormFace)
@@ -153,7 +171,13 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [labelme](https://github.com/wkentaro/labelme)
 - [An interactive tool for manual, semi-automatic and automatic video annotation](file:///home/yongfuh/Downloads/bianco2015interactive.pdf)
 - [Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces](https://github.com/cvondrick/vatic)
-- [BeaverDam](https://github.com/antingshen/BeaverDam)
+- [**BeaverDam**](https://github.com/antingshen/BeaverDam)
+- [DeepTeach](https://github.com/mldbai/deepteach)
+- [dash-object-detection](https://github.com/plotly/dash-object-detection)
+- [action-annotation](https://github.com/devyhia/action-annotation)
+- [bbox-annotator](https://github.com/kyamagu/bbox-annotator)
+- [Image Picker](rvera.github.io/image-picker/)
+- [Django Photo Gallery Sample](https://github.com/VelinGeorgiev/django-photo-gallery)
 
 #### datasets
 - [datasets](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
@@ -282,6 +306,8 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 	cascade importance for pose estimation
 - [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf)
   improved version of mask-rnn, good dataset for dense pose estimation
+#### on Speed
+- [Pose Proposal Networks](taikisekii.com/PDF/Sekii_ECCV18.pdf)
 
 ### fmri
 - [A Convolutional Autoencoder for Multi-Subject fMRI Data Aggregation](https://arxiv.org/pdf/1608.04846.pdf)
@@ -339,6 +365,7 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 
 ### database
 - [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/pdf/1707.08551.pdf)
+- [tensorpack](https://github.com/tensorpack/tensorpack)
 - [DeepSleepNet: a Model for Automatic Sleep Stage Scoring based on Raw Single-Channel EEG](https://arxiv.org/pdf/1703.04046.pdf)
 
 
@@ -348,12 +375,12 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 ### Visualization
 - [Plug-and-Play Interactive Deep Network Visualization](https://www.researchgate.net/profile/Gjorgji_Strezoski/publication/319932280_Plug-and-Play_Interactive_Deep_Network_Visualization/links/59c24aa9a6fdcc69b92fbf57/Plug-and-Play-Interactive-Deep-Network-Visualization.pdf)
 - [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/abs/1711.02257)
+- [NBA-player-movement](https://github.com/christopherjenness/NBA-player-movement)
 
 ### system examples
 - [home_surveillance](https://github.com/BrandonJoffe/home_surveillance)
 - [A face recognition based attendance updating system](https://github.com/Abhisssss/ProjectX2)
 - [A face recognition based attendance system](https://github.com/Husseinfo/tracker)
-
 
 ### AI as servise ([Note](doc/aias.md))
 
