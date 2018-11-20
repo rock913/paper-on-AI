@@ -97,6 +97,8 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 ### cloud spot instance Management
 - [Deep Learning on Amazon EC2 Spot Instances Without the Agonizing Pain](https://hackernoon.com/deep-learning-on-amazon-ec2-spot-instances-without-the-agonizing-pain-4cedf9b129c4)
 - [portal-gun](https://github.com/Coderik/portal-gun)
+- [Learning Machine Learning on the cheap: Persistent AWS Spot Instances](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8)
+- [Persisting state between AWS EC2 spot instances](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/)
 
 
 ### generate data from video game
@@ -144,6 +146,11 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 - [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184v2.pdf) [github](https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch)
 - [Alignedreid＋+: Dynamically Matching Local Information for Person Re-Identification](https://github.com/michuanhaohao/AlignedReID)
+### scalable VideoReID
+- [Scalable Person Re-identification: A Benchmark](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)
+- [Revisiting Temporal Modeling for Video-based Person ReID](https://arxiv.org/pdf/1805.02104.pdf)
+- [Exploiting Transitivity for Learning Person Re-identification Models on a Budget](openaccess.thecvf.com/content_cvpr_2018/CameraReady/4066.pdf)
+
 
 #### code
 - [COCO Loss](https://github.com/sciencefans/coco_loss)
@@ -178,6 +185,7 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [bbox-annotator](https://github.com/kyamagu/bbox-annotator)
 - [Image Picker](rvera.github.io/image-picker/)
 - [Django Photo Gallery Sample](https://github.com/VelinGeorgiev/django-photo-gallery)
+- [labelbox](https://techcrunch.com/2018/07/30/labelbox/)
 
 #### datasets
 - [datasets](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
@@ -250,7 +258,7 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 
 - [MOrdReD: Memory-based Ordinal Regression Deep Neural Networks for Time Series Forecasting](https://arxiv.org/pdf/1803.09704.pdf)
 - [Financial Time-Series Predictions and AI Models (Part 2): HTM Models](https://www.linkedin.com/pulse/financial-time-series-predictions-ai-models-part-2-htm-schoeneburg/)
-
+- [Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network](https://arxiv.org/pdf/1811.06173.pdf)
 
 #### portfolio management
 - [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
