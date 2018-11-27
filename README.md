@@ -186,6 +186,8 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Image Picker](rvera.github.io/image-picker/)
 - [Django Photo Gallery Sample](https://github.com/VelinGeorgiev/django-photo-gallery)
 - [labelbox](https://techcrunch.com/2018/07/30/labelbox/)
+#### annotation company
+- [scale.ai]https://scale.ai/retail#how-it-works
 
 #### datasets
 - [datasets](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
