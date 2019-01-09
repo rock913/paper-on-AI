@@ -116,7 +116,7 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 
 ### activity Recognition
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
-- [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf)
+- [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf)[challenge](https://research.google.com/ava/challenge.html)
 - [The Kinetics Human Action Video Dataset](https://arxiv.org/pdf/1705.06950.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ARCHITECHT)
 
 ### video tracking
@@ -150,7 +150,12 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Scalable Person Re-identification: A Benchmark](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)
 - [Revisiting Temporal Modeling for Video-based Person ReID](https://arxiv.org/pdf/1805.02104.pdf)
 - [Exploiting Transitivity for Learning Person Re-identification Models on a Budget](openaccess.thecvf.com/content_cvpr_2018/CameraReady/4066.pdf)
-
+### person recognition
+- [A Multi-Level Contextual Model For Person Recognition in Photo Albums](users.eecs.northwestern.edu/~xsh835/assets/cvpr2016_peoplerecognition.pdf)
+- [Large-scale Multimedia Analysis Project ReportPerson Recognition in Photo Albums](https://www.dropbox.com/s/00ioth4scki918f/ProjectReport_11775.pdf?dl=0)
+- [Learning Deep Features via Congenerous Cosine Loss for Person Recognition](https://arxiv.org/pdf/1702.06890.pdf)
+- [github-Person Recognition System on PIPA dataset](https://github.com/YuMao1993/HumanRecognition)
+- [github](https://github.com/sciencefans/coco_loss)
 
 #### code
 - [COCO Loss](https://github.com/sciencefans/coco_loss)
