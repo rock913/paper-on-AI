@@ -150,6 +150,7 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Scalable Person Re-identification: A Benchmark](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)
 - [Revisiting Temporal Modeling for Video-based Person ReID](https://arxiv.org/pdf/1805.02104.pdf)
 - [Exploiting Transitivity for Learning Person Re-identification Models on a Budget](openaccess.thecvf.com/content_cvpr_2018/CameraReady/4066.pdf)
+- [Deep Active Learning for Video-based Person Re-identification](https://arxiv.org/abs/1812.05785)
 ### person recognition
 - [A Multi-Level Contextual Model For Person Recognition in Photo Albums](users.eecs.northwestern.edu/~xsh835/assets/cvpr2016_peoplerecognition.pdf)
 - [Large-scale Multimedia Analysis Project ReportPerson Recognition in Photo Albums](https://www.dropbox.com/s/00ioth4scki918f/ProjectReport_11775.pdf?dl=0)
