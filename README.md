@@ -2,6 +2,9 @@
 
 ## Topics
 
+
+### Video Surveillance  ([Note](doc/VIDS.md))
+
 ### Medical Image analysis using deep learning ([Note](doc/MIA.md))
 
 ### Probabilistic programming language ([Note](doc/ppl.md))
@@ -23,6 +26,9 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
  - [Deep Inverse Reinforcement Learning](https://pdfs.semanticscholar.org/fde4/8677ba592ed5710b14ef2da7fb8c8144feda.pdf)
    to learn the reward for each state
  - [Cooperative Inverse Reinforcement Learning](papers.nips.cc/paper/6420-cooperative-inverse-reinforcement-learning.pdf)
+### for finance
+ - [async-rl](https://github.com/coreylynch/async-rl/blob/master/async_dqn.py)
+ - [A3C-Gym](https://github.com/tensorpack/tensorpack/tree/master/examples/A3C-Gym)
 
 ### Imbalanced Classification ([Note](doc/imclfi.md))
  - Learning Deep Representation for Imbalanced Classification_cvpr2016 ([Note](doc/Learning_Deep_Representation_for_Imbalanced_Classification_cvpr2016.md))
@@ -88,6 +94,12 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
  - [Learning Policies for First Person Shooter Games Using Inverse Reinforcement Learning](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4063/4417)
  - [Strategy Detection in Wuzzit: A Decision Theoretic Approach](documents.brainquake.com/backed-by-science/Northeastern-Nguyen_ICLS_2014.pdf)
 
+### cloud spot instance Management
+- [Deep Learning on Amazon EC2 Spot Instances Without the Agonizing Pain](https://hackernoon.com/deep-learning-on-amazon-ec2-spot-instances-without-the-agonizing-pain-4cedf9b129c4)
+- [portal-gun](https://github.com/Coderik/portal-gun)
+- [Learning Machine Learning on the cheap: Persistent AWS Spot Instances](https://blog.slavv.com/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8)
+- [Persisting state between AWS EC2 spot instances](https://peteris.rocks/blog/persisting-state-between-aws-ec2-spot-instances/)
+
 
 ### generate data from video game
 - [Playing for Data: Ground Truth from Computer Games](download.visinf.tu-darmstadt.de/data/from_games/data/eccv-2016-richter-playing_for_data.pdf)
@@ -102,17 +114,89 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Emotion Recognition in the Wild using Deep Neural Networks and Bayesian Classifiers](https://arxiv.org/pdf/1709.03820.pdf)
 - [EmotioNet Challenge: Recognition of facial expressions of emotion in the wild](https://arxiv.org/pdf/1703.01210.pdf)
 
-### Detection
+### activity Recognition
 - [Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448.pdf)
+- [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf)[challenge](https://research.google.com/ava/challenge.html)
+- [The Kinetics Human Action Video Dataset](https://arxiv.org/pdf/1705.06950.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=ARCHITECHT)
+
+### video tracking
+- [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
+- [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
+- [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)[github](https://github.com/Microsoft/human-pose-estimation.pytorch)
+- [**Pose Flow: Efficient Online Pose Tracking**](https://arxiv.org/pdf/1802.00977.pdf)
+- [PoseFlow](https://github.com/YuliangXiu/PoseFlow)
+
+- [Tracking The Untrackable:Learning to Track Multiple Cues with Long-Term Dependencies](openaccess.thecvf.com/content_ICCV_2017/papers/Sadeghian_Tracking_the_Untrackable_ICCV_2017_paper.pdf)
+- [Moving beyond: Deepomatic learns how to track multiple objects](https://blog.deepomatic.com/moving-beyond-deepomatic-learns-how-to-track-multiple-objects-be5a75e1e287)
+- [signality](https://www.signality.com)
+- [ArtTrack: Articulated Multi-person Tracking in the Wild](https://arxiv.org/pdf/1612.01465v3.pdf)
+
+### background substraction fill
+- [awesome-background-subtraction](https://github.com/murari023/awesome-background-subtraction)
+- [FgSegNet](https://github.com/lim-anggun/FgSegNet)
+- [**FusionSeg**](https://github.com/suyogduttjain/fusionseg)
+- [generative_inpainting](https://github.com/JiahuiYu/generative_inpainting)
+
+### [reid](https://paperswithcode.com/search?q=reid)
+- [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
+- [Clothing Change Aware Person Identification](openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)
+- [Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues](https://arxiv.org/pdf/1501.05703.pdf)
+### persion re Identifying
+- [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
+- [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184v2.pdf) [github](https://github.com/huanghoujing/AlignedReID-Re-Production-Pytorch)
+- [Alignedreid＋+: Dynamically Matching Local Information for Person Re-Identification](https://github.com/michuanhaohao/AlignedReID)
+### scalable VideoReID
+- [Scalable Person Re-identification: A Benchmark](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)
+- [Revisiting Temporal Modeling for Video-based Person ReID](https://arxiv.org/pdf/1805.02104.pdf)
+- [Exploiting Transitivity for Learning Person Re-identification Models on a Budget](openaccess.thecvf.com/content_cvpr_2018/CameraReady/4066.pdf)
+- [Deep Active Learning for Video-based Person Re-identification](https://arxiv.org/abs/1812.05785)
+### person recognition
+- [A Multi-Level Contextual Model For Person Recognition in Photo Albums](users.eecs.northwestern.edu/~xsh835/assets/cvpr2016_peoplerecognition.pdf)
+- [Large-scale Multimedia Analysis Project ReportPerson Recognition in Photo Albums](https://www.dropbox.com/s/00ioth4scki918f/ProjectReport_11775.pdf?dl=0)
+- [Learning Deep Features via Congenerous Cosine Loss for Person Recognition](https://arxiv.org/pdf/1702.06890.pdf)
+- [github-Person Recognition System on PIPA dataset](https://github.com/YuMao1993/HumanRecognition)
+- [github](https://github.com/sciencefans/coco_loss)
+
+#### code
+- [COCO Loss](https://github.com/sciencefans/coco_loss)
+- [NormFace](https://github.com/happynear/NormFace)
+- [HumanRecognition](https://github.com/YuMao1993/HumanRecognition)
+- [**Person recognition**](https://github.com/vijaykumar01/person_recognition)
+
+### Detection
 - [Flow-Guided Feature Aggregation for Video Object Detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
 - [Deep Feature Flow for Video Recognition](https://arxiv.org/pdf/1611.07715.pdf)
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 - [Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking](https://arxiv.org/pdf/1607.05781.pdf)
 - [ROLO](https://github.com/Guanghan/ROLO)
+- [High-Speed Tracking-by-Detection Without Using Image Information](elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf)
+- [End-to-end representation learning for Correlation Filter based tracking](https://arxiv.org/pdf/1704.06036.pdf)
+- [SIMPLE ONLINE AND REALTIME TRACKING](https://arxiv.org/pdf/1602.00763.pdf)
+- [ReMotENet: Efficient Relevant Motion Event Detection for Large-scale Home Surveillance Videos](https://arxiv.org/pdf/1801.02031.pdf)
+- [Multiple People Tracking by Lifted Multicut and Person Re-identification](openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)
+- [POI: Multiple Object Tracking with High Performance Detection and Appearance Feature](https://arxiv.org/pdf/1610.06136.pdf)[github](https://github.com/jutanke/cabbage)
+- [People Detection and Tracking in Crowded Scenes](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26806/1/SiyuTang_PhD_thesis_submit.pdf)
 
 #### annotation
 - [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
 - [annotation tool](https://github.com/wiany11/jsoda)
+- [labelme](https://github.com/wkentaro/labelme)
+- [An interactive tool for manual, semi-automatic and automatic video annotation](file:///home/yongfuh/Downloads/bianco2015interactive.pdf)
+- [Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces](https://github.com/cvondrick/vatic)
+- [**BeaverDam**](https://github.com/antingshen/BeaverDam)
+- [DeepTeach](https://github.com/mldbai/deepteach)
+- [dash-object-detection](https://github.com/plotly/dash-object-detection)
+- [action-annotation](https://github.com/devyhia/action-annotation)
+- [bbox-annotator](https://github.com/kyamagu/bbox-annotator)
+- [Image Picker](rvera.github.io/image-picker/)
+- [Django Photo Gallery Sample](https://github.com/VelinGeorgiev/django-photo-gallery)
+- [labelbox](https://techcrunch.com/2018/07/30/labelbox/)
+#### annotation company
+- [scale.ai]https://scale.ai/retail#how-it-works
+
+#### datasets
+- [datasets](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
 
 ### video health related
 - [Unconstrained Video Monitoring of Breathing Behavior and Application to Diagnosis of Sleep Apnea](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6587794)
@@ -184,10 +268,28 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [Agent Inspired Trading Using Recurrent Reinforcement Learning and LSTM Neural Networks](https://arxiv.org/pdf/1707.07338.pdf)
 - [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](https://pdfs.semanticscholar.org/0871/2243c3f1dc464c34e7876ab093274ae8024c.pdf)
 
+- [MACHINE LEARNING FOR TRADING](https://primedirection.net/docs/insight6.pdf)
+
+- [MOrdReD: Memory-based Ordinal Regression Deep Neural Networks for Time Series Forecasting](https://arxiv.org/pdf/1803.09704.pdf)
+- [Financial Time-Series Predictions and AI Models (Part 2): HTM Models](https://www.linkedin.com/pulse/financial-time-series-predictions-ai-models-part-2-htm-schoeneburg/)
+- [Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network](https://arxiv.org/pdf/1811.06173.pdf)
+
+#### portfolio management
+- [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
+- [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf)
+- [Deep Reinforcement Learning in Portfolio Management](https://ruohanzhan.github.io/fun_proj/trading/report.pdf)
+- [Gather data, compute statistics, and make predictions on securities](https://github.com/ahwkuepper/etfs)
+- [etfpredict](https://github.com/mmzhao/etfpredict)
+- [ETFDataLoader](https://github.com/dado0583/ETFDataLoader/tree/master/ETFScraper)
+- [ETFGlobal](https://github.com/luoli413/ETFGlobal)
+- [Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/pdf/1808.09940.pdf)[Github](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
+
+
 #### combine news
 - [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation]9emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
 - [Deep Learning for Event-Driven Stock Prediction](file:///home/yongfu/Downloads/11031-49810-1-PB.pdf)
 - [On the Importance of Text Analysis for Stock Price Prediction](https://nlp.stanford.edu/pubs/lrec2014-stock.pdf)
+- [Using Structured Events to Predict Stock Price Movement: An Empirical Investigation](www.aclweb.org/anthology/D14-1148)
 
 ##### Github
 - [financial-news-dataset](https://github.com/philipperemy/financial-news-dataset)
@@ -199,7 +301,6 @@ it elaborates upon a vision for an evidence-based clinical decision support syst
 - [scraping sec.gov for Form 8-K's using Beautiful Soup](https://gist.github.com/Luke-G-B/bacbdeeb3c5502651fc6e84e5c50edb1)
 - [Stock Market prediction using news headlines](https://github.com/EmielStoelinga/CCMLWI)
 - [How To: Convert a Stock Ticker Into a CIK Identifier With Python](www.konradrkludwig.com/2016/05/25/how-to-convert-a-stock-ticker-into-cik-identifier-with-python/)
-
 
 ### recursive network
 - [Recursive Neural Networks](www.iro.umontreal.ca/~bengioy/talks/gss2012-YB6-NLP-recursive.pdf)
@@ -227,6 +328,8 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 	cascade importance for pose estimation
 - [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/pdf/1802.00434.pdf)
   improved version of mask-rnn, good dataset for dense pose estimation
+#### on Speed
+- [Pose Proposal Networks](taikisekii.com/PDF/Sekii_ECCV18.pdf)
 
 ### fmri
 - [A Convolutional Autoencoder for Multi-Subject fMRI Data Aggregation](https://arxiv.org/pdf/1608.04846.pdf)
@@ -284,6 +387,7 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 
 ### database
 - [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/pdf/1707.08551.pdf)
+- [tensorpack](https://github.com/tensorpack/tensorpack)
 - [DeepSleepNet: a Model for Automatic Sleep Stage Scoring based on Raw Single-Channel EEG](https://arxiv.org/pdf/1703.04046.pdf)
 
 
@@ -293,8 +397,12 @@ The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predi
 ### Visualization
 - [Plug-and-Play Interactive Deep Network Visualization](https://www.researchgate.net/profile/Gjorgji_Strezoski/publication/319932280_Plug-and-Play_Interactive_Deep_Network_Visualization/links/59c24aa9a6fdcc69b92fbf57/Plug-and-Play-Interactive-Deep-Network-Visualization.pdf)
 - [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/abs/1711.02257)
+- [NBA-player-movement](https://github.com/christopherjenness/NBA-player-movement)
 
-##
+### system examples
+- [home_surveillance](https://github.com/BrandonJoffe/home_surveillance)
+- [A face recognition based attendance updating system](https://github.com/Abhisssss/ProjectX2)
+- [A face recognition based attendance system](https://github.com/Husseinfo/tracker)
 
 ### AI as servise ([Note](doc/aias.md))
 
@@ -312,10 +420,7 @@ frozone; fine-turn; domain; distillation; semi-supervised
 - [Transfer Learning — The Next Frontier for ML](https://drive.google.com/file/d/1tpE7vcx8SuP5q5za-3_hZa7BDsOTW3-T/view)
 - [Transfer Learning - Machine Learning's Next Frontier](ruder.io/transfer-learning/index.html)
 
-### video tracking
-- [Deep Feature Flow for Video Recognition](openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Deep_Feature_Flow_CVPR_2017_paper.pdf)
-- [Flow-Guided Feature Aggregation for Video Object Detection](openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.pdf)
-- [Detect to Track and Track to Detect](openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
+
 
 ### multi-task learning
 - [An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/)
