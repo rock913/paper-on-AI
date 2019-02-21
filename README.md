@@ -65,6 +65,10 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
  [Hierarchical Surface Prediction for 3D Object Reconstruction](https://arxiv.org/pdf/1704.00710.pdf)
  [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf)
 
+### face recognition
+- [Disentangled Representation Learning GAN for Pose-Invariant Face Recognition](cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf) [Github](https://github.com/zhangjunh/DR-GAN-by-pytorch)
+- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-fo2) [Github](https://github.com/deepinsight/insightface)
+
 ### health
  [Classification of Radiology Reports Using Neural Attention Models](http://xxx.lanl.gov/pdf/1708.06828)
 
