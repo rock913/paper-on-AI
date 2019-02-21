@@ -114,6 +114,12 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [deepannotator](https://github.com/d1ngn1gefe1/deepannotator)
 - [annotation tool](https://github.com/wiany11/jsoda)
 
+### video health related
+- [Unconstrained Video Monitoring of Breathing Behavior and Application to Diagnosis of Sleep Apnea](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6587794)
+- [This Stanford-Tested Baby Monitor Uses Computer Vision To Keep Baby Safe](https://www.forbes.com/sites/mnewlands/2017/08/24/this-stanford-tested-baby-monitor-uses-computer-vision-to-keep-baby-safe/#2e64ac1e5391)
+- [cocooncam](https://cocooncam.com/pages/how-it-works)
+- [Vision-based patient monitoring: a comprehensive review of algorithms and technologies](https://link.springer.com/article/10.1007%2Fs12652-015-0328-1)
+
 ### GANS([Note](doc/gans.md))
 - [RENDERGAN: GENERATING REALISTIC LABELED DATA](https://arxiv.org/pdf/1611.01331.pdf)
 
