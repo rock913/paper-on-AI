@@ -157,6 +157,7 @@ We present DAPIP, a **Programming-By-Example system** that learns to program wit
 - [Learning Deep Features via Congenerous Cosine Loss for Person Recognition](https://arxiv.org/pdf/1702.06890.pdf)
 - [github-Person Recognition System on PIPA dataset](https://github.com/YuMao1993/HumanRecognition)
 - [github](https://github.com/sciencefans/coco_loss)
+- [**Person Search in Videos with One Portrait Through Visual and Temporal Links**](openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf)[page](http://qqhuang.cn/projects/eccv18-person-search/)
 
 #### code
 - [COCO Loss](https://github.com/sciencefans/coco_loss)
